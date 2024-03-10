@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project predicts local epidemics of dengue fever to help fight life-threatening pandemics. This project was created for entry to the [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page/80/) competition hosted by [Driven Data](https://www.drivendata.org/). 
+This project predicts local epidemics of dengue fever to help fight life-threatening pandemics. This project was created as an entry to the [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page/80/) competition hosted by [Driven Data](https://www.drivendata.org/). 
 
 The project predicts the number of Dengue Fever cases reported each week in the following locations:
 
