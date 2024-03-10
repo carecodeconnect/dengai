@@ -42,5 +42,5 @@ st.write("""
 
 The project was created as an entry to the [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page/80/) competition hosted by [Driven Data](https://www.drivendata.org/). 
 
-To find out more about how we interpreted this dataset, see [Flu Shot Learning](https://github.com/carecodeconnect/dengai)
+To find out more about how we interpreted this dataset, see [DengAI](https://github.com/carecodeconnect/dengai)
 """)
